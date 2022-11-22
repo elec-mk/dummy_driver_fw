@@ -1,0 +1,3 @@
+.venv/
+.mbedbuild
+cmake_build/
